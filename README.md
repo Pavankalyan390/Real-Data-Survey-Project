@@ -14,7 +14,6 @@
 - This project demonstrates the ability to clean and analyze survey data, design user-friendly dashboards, and provide actionable insights for aspiring and current data professionals.
 
 
-
 ## Things I did in Preprocessing
 - Eliminated 3+ unwanted columns using Power Query.
 
